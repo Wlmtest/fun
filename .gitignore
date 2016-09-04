@@ -1,0 +1,11 @@
+/node_modules
+/mochawesome-reports
+/test
+/reports
+/public
+.DS_Store
+.idea
+test_log.log
+composer.phar
+composer.lock
+vendor
